@@ -1,7 +1,7 @@
 # StarGAN-Voice-Conversion
 
 
-This is a pytorch implementation of the paper: [StarGAN-VC: Non-parallel many-to-many voice conversion with star generative adversarial networks](https://arxiv.org/abs/1806.02169).
+This is a pytorch implementation of the paper: [StarGAN-VC: Non-parallel many-to-many voice conversion with star generative adversarial networks](https://arxiv.org/abs/1806.02169) and [Non-parallel Voice Conversion using Weighted Generative Adversarial Networks](https://www.researchgate.net/profile/Dipjyoti-Paul/publication/335829286_Non-Parallel_Voice_Conversion_Using_Weighted_Generative_Adversarial_Networks/links/5ec26e8ba6fdcc90d67e1dce/Non-Parallel-Voice-Conversion-Using-Weighted-Generative-Adversarial-Networks.pdf).
 
 **The converted voice examples are in *converted directory*.
 
